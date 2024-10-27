@@ -3851,6 +3851,13 @@
     (effects (font (size 1.27 1.27)) (justify left top))
     (uuid 1a4329ab-ffbf-46b6-83b2-ec4fd9894909)
   )
+  (text_box "AT28C256:\n\n[0x0000-0x3FFF][0x4000-0x7FFF]\n[    48k.rom  ][  trdos.rom  ]\n\nW27C512:\n\n[0x0000-0x3FFF][0x4000-0x7FFF][0x8000-0xBFFF][0xC000-0xFFFF]\n[   nothing   ][    48k.rom  ][   nothing   ][  trdos.rom  ]\n\ncat zero-16kb.bin 48k.ROM zero-16kb.bin trd504t.rom > 48k+trdos-w27c512.rom"
+    (at 196.85 140.97 0) (size 86.36 23.495)
+    (stroke (width 0) (type default))
+    (fill (type none))
+    (effects (font (size 1.27 1.27) (thickness 0.254) bold) (justify left top))
+    (uuid 4e7db074-a6c9-4ed1-8d83-57b44601d613)
+  )
 
   (label "A02" (at 138.43 52.07 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
@@ -3996,7 +4003,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 4d540c0d-9d06-48d5-b7b1-de1ae3a8bbe7)
   )
-  (label "{slash}BETA" (at 110.49 118.745 180) (fields_autoplaced)
+  (label "BETA" (at 110.49 118.745 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 4e1ef0b0-82c8-4dfc-ac24-0543b7a168fa)
   )
