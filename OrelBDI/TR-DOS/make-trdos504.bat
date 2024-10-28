@@ -1,0 +1,1 @@
+sjasmplus.exe "H:\!!!PROJECTS\SD-BDI\TR-DOS\disasm\trdos504t.asm\trdos504t.asm" > "H:\!!!PROJECTS\SD-BDI\TR-DOS\disasm\trdos504t.asm\make.log"

@@ -1,0 +1,11 @@
+SjASMPlus Z80 Cross-Assembler v1.07 RC7 (build 02-04-2008)
+Pass 1 complete (0 errors)
+Pass 2 complete (0 errors)
+> Free space at 0x0033: 5 byte(s)
+> Free space at 0x085D: 1955 byte(s)
+> Free space at 0x16F9: 23 byte(s)
+> Free space at 0x332C: 2261 byte(s)
+> Free space at 0x3C0C: 238 byte(s)
+> Free space at 0x3FF0: 16 byte(s)
+Pass 3 complete
+Errors: 0, warnings: 0, compiled: 6717 lines, work time: 0.110 seconds
