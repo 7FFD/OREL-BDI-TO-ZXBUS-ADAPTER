@@ -23,14 +23,15 @@ The latest version looked like Frankenstien...
 
 ![image](https://github.com/user-attachments/assets/0a0ad775-c3cc-432a-9e29-f622c6610da8)
 
-So, I decided make it more beatuful. This is how it looks now!
-
 Over a time I collected on prototype board quite a lot of useful features and implemented them on final schematic:
  -  Optional Kempston Joystic, can be off, always on or depends on BETA signal from Orel BDI
  -  Optional ROM, can be off, only TRDOS part activated and stock ROM with Basic, TRDOS and Basic in optional ROM, in addition, 27C512 can be used without schematic changes
  -  Magic Button
  -  External +12v
  -  Safe +12V for 1818VG93
+ -  Block external Kempston Joystic by /KJOY connected to A28 on ZXBUS Slot
+
+So, I decided make it more beatuful. This is how it looks now!
 
 ![Front](https://github.com/user-attachments/assets/a6c51c50-5229-422b-8bf5-36aefec4eb1e)
 
